@@ -105,7 +105,7 @@ RESPONSE :
 REQUEST : 
 
 curl --location 'http://localhost:8010/api/v1/mac-lookup/list' \
---header 'X-API-KEY: 7O7BbxTYZLyp01Sp8K2xTEQ24fjp7kS6qoG8yY1F1Fk' \
+--header 'X-API-KEY: *****************' \
 --header 'Content-Type: application/json' \
 --data '{
   "MACAddressList": [
